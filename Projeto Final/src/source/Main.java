@@ -16,6 +16,13 @@ import static estruturas.MapaOrdenadoUsandoAbb.mapaOrdenadoUsandoAbb;
 import static estruturas.MapaOrdenadoUsandoAvl.mapaOrdenadoUsandoAvl;
 import static estruturas.Grafos.grafos;
 
+/**
+ * @author David Ferreira de Almeida
+ * @author Eduardo de Oliveira Campos Junior
+ * @author Iasmin Pinheiro Ribeiro
+ * @author Lucas Cauan Pinheiro Costa
+ */
+
 public class Main {
 	public static void main(String[] args) throws InterruptedException {
 		System.out.println("\n			-=-=-=-=- Estrutura de Dados -=-=-=-=-");
